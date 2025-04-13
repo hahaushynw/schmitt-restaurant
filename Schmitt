@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant Schmitt | Höpfingen</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Restaurant Schmitt</h1>
+        <p>Genuss & Gastfreundschaft in Höpfingen</p>
+        <nav>
+            <ul>
+                <li><a href="#about">Über uns</a></li>
+                <li><a href="#menu">Speisekarte</a></li>
+                <li><a href="#contact">Kontakt</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>Über uns</h2>
+        <p>Willkommen im Restaurant Schmitt – dem kulinarischen Herz von Höpfingen. Seit über 20 Jahren verwöhnen wir unsere Gäste mit regionaler Küche und familiärer Atmosphäre.</p>
+    </section>
+
+    <section id="menu">
+        <h2>Speisekarte</h2>
+        <ul>
+            <li>Schwäbischer Zwiebelrostbraten – 18,90 €</li>
+            <li>Vegetarische Maultaschen mit Salat – 12,50 €</li>
+            <li>Forelle Müllerin Art – 16,20 €</li>
+            <li>Hausgemachter Apfelstrudel – 6,90 €</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Kontakt & Öffnungszeiten</h2>
+        <p><strong>Adresse:</strong> Hauptstraße 12, 74746 Höpfingen</p>
+        <p><strong>Telefon:</strong> 06283 123456</p>
+        <p><strong>Öffnungszeiten:</strong><br>
+            Mo–Fr: 11:30–14:00 & 17:30–22:00<br>
+            Sa–So: 11:30–22:00</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Restaurant Schmitt – Alle Rechte vorbehalten.</p>
+    </footer>
+</body>
+</html>j
